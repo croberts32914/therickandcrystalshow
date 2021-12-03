@@ -1,0 +1,176 @@
+<!-- The Rick & Crystal show -->
+<!DOCTYPE html>
+
+<html lang="en">
+  
+<head>
+  <title>About</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <link href="styles.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">WebSiteName</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Home</a></li>
+      <li><a href="#">Page 1</a></li>
+      <li><a href="#">Page 2</a></li>
+      <li><a href="#">Page 3</a></li>
+    </ul>
+  </div>
+</nav>
+
+
+</head>
+
+<body>
+
+
+
+
+
+
+  
+  <title>About Us</title>
+   <style> 
+i { font-size: 23px;
+  color: red;
+  font-family: georgia;
+  font-weight: bold;}</style>
+  
+  
+  <div id="topMenu">
+    
+    <div class="wrap">
+      
+    <div id="topLinks">
+      <ul> <div align="right">
+        <label>
+         <a href="/">Home</a>
+        </label>
+        <label>
+        <a href="/">About</a>
+        </label>
+        <label>
+        <a href="/">Game</a>
+        </label>
+        <label>
+        <a href="/">Contact</a>
+        </label></div>
+      </ul> 
+    </div>
+  </div>
+  
+  <h1><b>About us</b></h1>
+  <!--think this one goes at end of </div> --> 
+  </div> 
+<div> 
+  <p> <center>
+      <span class="w3-tag">
+      "Life is tough, but on the journey, one may find something more worthy than themself..."</center>
+  </p> <p> &nbsp &nbsp &nbsp Sometimes we want to give up, but we learn to pick ourselves up from the ground, wipe 
+     our tears and try again. Although it may be comfortable to remain in the bubble you were born into,
+     the role you were expected to fulfill; you will undoubtedly find that role unsatisfying as this was 
+     not the role, in your heart which you believed was your purpose.</span>
+  </p>
+  <br>
+  <p>
+    <h5> <center>  <span class="w3-tag">  We are<i> ALL </i>human beings sharing a human 
+     experience. 
+  <br>
+      Everyone has a story and that story matters, because we matter, every last one of us!
+  </p>  </center> ></span>
+  <br>
+  <p>
+      &nbsp &nbsp &nbsp Like everyone, Rick and Crystal have a story... Their story triumphs with God, love, understanding, forgiveness and
+     a desire to help others in need, but that’s not how it first started...
+  </p>
+  <br>
+  <p>
+     &nbsp &nbsp &nbsp Rick and Crystal have struggled with many tragic and stressful situations 
+     in their lifetimes. Some things that have happened they never thought they would emotionally 
+     recover from. One of the most tragic, life changing events, that happened in Rick's life was when
+     he lost his spouse of 22 years. He was a widower of 3 boys when he met Crystal in 2013. She 
+     was a divorced mother of two boys often in court for various custody issues. 
+     
+     
+     
+     sexual abuse, physical abuse, custody battles over Crystal's children, attempted suicides, 
+     Crystal's struggles with her bipolar diagnosis, his DUI and loss of career, 
+     both recovered from past drug and alcohol abuse, 
+     loss of loved ones, and family whom have suffered tragic deaths from suicide, accidental OD, and murder,
+    but Rick and Crystal didn't want to live as victims, they wanted what every other person
+    desires. They needed to find peace, happiness, joy, and security. What they needed was God.
+  </p>
+  <br>
+  <p>
+      
+     <h6><center>
+         <span class="w3-tag">
+         Romans 3:23, in the Bible says <i>"For all have sinned and fall short of the glory of God". </i></h6></center> ></span>
+     <br>
+     <p> &nbsp &nbsp &nbsp We all have our own personal cross to bear, as they say and Rick and Crystal are no exception.
+     They both have ultimately made some bad decisions in their past which not only affected their
+     present but future as well. </p>
+     <br>
+     <p> &nbsp &nbsp &nbsp Their sins were overcoming them, they were drowning, sinking but grasping for 
+     a moment of peace, just a moment would be nice they both had thought.
+     Lying to themselves, hiding their pain, falling into the socially acceptable, lure of alcohol
+     and its lifestyle until Rick had been drinking one night and got a DUI and lost his license,
+     his freedom, his career, and truck, what had appeared to be almost everything. But something
+     unexpected happened...<br>
+     <br>
+      
+       <p>
+     <center><bold>
+         <span class="w3-tag">
+             Rick and Crystal's story’s not over just yet, it’s still being written!</bold></center> <BR>
+         </span></p>
+     
+     
+     
+     <p>  &nbsp &nbsp &nbsp
+      Rick and Crystal began not only seeking truth and understanding, of who they were and why 
+      they had become the people they had; but they wanted to improve their quality of life, someway, somehow. They
+      believed they could naturally alter their perception of reality by gaining knowledge and understanding of 
+      things such as: self, society, politics and creation. Before then, up until that <span class="w3-tag"> <i>bad</span></i> day, 
+      they unknowingly were existing in a slumber, but until someone is aware there is a problem,
+      there will never be a solution. For Rick and Crystal, that bad night had a good outcome...
+      because it saved them, 
+      their marriage and their family. That night saved their LIVES! 
+       </p>
+       <br>
+       
+       
+       <span class="w3-tag"> Next chapter... Who Rick & Crystal
+       REALLY ARE!</SPAN>
+       <br><br>
+       <div><center>
+         &nbsp &nbsp &nbsp <span class="w3-tag"> Rick and Crystal are not the same people they once were
+         and for that they are <b><i>GREATFUL!!!</span></b></i> </h2></div></center>
+      </p>
+    </p>
+      
+        
+        </p>   
+         
+  </div>
+  </body>
+  
+</html>
+  
+         
+  
+  
+  
+
+  
