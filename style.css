@@ -1,0 +1,58 @@
+img {
+  border: 10px solid #555;
+}
+smaller
+{
+  color: white;
+  font-weight: bold;
+  font-family:Verdana;
+}
+h1 {
+  color: White;
+  font-family: Helvetica;
+}
+h2 {
+    color: red;
+    font-family: georgia;
+    font-weight: bold;
+}
+h3 {
+  color: #9900e6;
+  font-family: times;
+  
+}
+p {
+  font-size: 16px;
+  color: #00091a;
+  font-family: georgia;
+  font-weight: bold;
+}
+
+
+
+
+body {font-family: "Raleway", sans-serif}
+div {
+ background-image: url('coloredRain.jpg');
+  background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: 100% 50%;
+  
+}
+
+span {
+  background-color: white;
+}
+span {
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+span class {  
+ background-color: white;
+}
+i { font-size: 23px;
+  color: #00091a;
+  font-family: georgia;
+  font-weight: bold;
+}
