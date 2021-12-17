@@ -39,6 +39,251 @@ and is wrapped the whole page content, except for the footer -->
 
 </head>
 <body>
+  
+  <style> 
+  /* border of website */
+body {
+	padding: 40px;
+	overflow-x: hidden; 
+
+/* For Opera */
+	-webkit-box-shadow:
+		inset #797D7F 0 0 0 40px,
+		inset #979A9A 0 0 0 10px,
+		-moz-box-shadow 
+		inset #797D7F 0 0 0 40px,
+		inset #979A9A 0 0 0 10px,
+		box-shadow
+		inset #797D7F 0 0 0 40px,
+		inset #979A9A 0 0 0 10px,
+		}
+		
+/*background image */
+body
+{
+  background-image: url('retro.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+/* Border of images */
+img 
+{
+  border: 10px solid #CA6F1E;
+}
+
+/* text appearance */
+smaller
+{
+  color: red;
+  font-weight: bold;
+  font-family:Verdana;
+}
+h1 
+{
+  color: #000080;
+  font-family: Helvetica;
+}
+h2 
+{
+    color: red;
+    font-family: georgia;
+    font-weight: bold;
+}
+h3 
+{
+  color: #9900e6;
+  font-family: times;
+}
+p {
+  font-size: 16px;
+  color: #00091a;
+  font-family: georgia;
+  font-weight: bold;
+}
+
+/* font: body of website */
+body 
+{
+  font-family: "Raleway", sans-serif;
+}
+div 
+{
+  background-color: #e3b99a;
+}
+
+
+/* Add some padding on document's body to prevent the content
+    to go underneath the header and footer */
+body
+{        
+  padding: 50px;
+  padding: 30px;
+  padding: 50px;
+  padding: 80px;
+}
+
+/*header and footer */
+.fixed-header, .fixed-footer{
+  width: 100%;
+        position: fixed;        
+        background: #333;
+        padding: 10px 0;
+        color: #fff;
+    }
+    .fixed-header{
+        top: 0;
+    }
+    .fixed-footer{
+        bottom: 0;
+    }
+    .container{
+        width: 100%;
+        margin: 0 auto; 
+    }
+
+/* Center the DIV horizontally */
+    nav a
+    {
+    color: #fff;
+    text-decoration: none;
+    padding: 7px 25px;
+    display: inline-block;
+    }
+
+/* all span: for text wrap */
+span 
+  {
+  background-color: #bfecf7;
+  }
+span 
+  {
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  }
+span class 
+ {  
+ background-color: white;
+ }
+i 
+ { 
+  font-size: 23px;
+  color: #00091a;
+  font-family: georgia;
+  font-weight: bold;
+  }
+
+/* center contents */
+.container
+    {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    }
+
+/* colors for navbar */
+.navbar-default .navbar-brand .white
+    {
+    color: #537fbe;
+    }
+.navbar-default .navbar-brand .yellow
+    {
+    color: #f5b82e;
+    }
+.navbar-default .navbar-brand .green
+    {
+    color: #2e944b;
+    }
+.table
+    {
+    max-width: 600px;
+    margin: auto;
+    }
+
+/* center form controls */
+main .form-control
+    {   
+    display: inline-block;
+/* override Bootstrap's 100% width for form controls */
+    width: auto;
+    }
+
+/* constrain images on small screens */
+main img
+   {
+   max-width: 100%;
+   }
+
+/* left-align tables' cells */
+main td
+   {
+   text-align: left;
+   }
+
+/* Style the links inside the navigation bar */
+.topnav a 
+  {
+  float: right;
+  color: black
+  }
+.topnav a 
+  {
+  font-weight: bold;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  }
+
+/* Change the color of links on hover */
+.topnav a:hover 
+  {
+  background-color: #ddd;
+  color: black;
+  }
+
+/* Add a color to the active/current link */
+.topnav
+  {
+  background-color: #04AA6D;
+  color: white;
+  }
+
+/* working on */
+/* Add some padding on document's body to prevent the content
+    to go underneath the header and footer */
+body
+  {        
+  padding-top: 60px;
+  }
+.fixed-header 
+  {
+  width: 100%;
+  position: fixed;        
+  padding: 10px 0;
+  color: #fff;
+  }
+.fixed-header
+  {
+  top: 0;
+  }
+.container
+  {
+  width: 80%;
+  margin: 0 auto; 
+  }
+  
+/* Center the DIV horizontally */
+nav a
+  {
+  color: #fff;
+  text-decoration: none;
+  padding: 7px 25px;
+  display: inline-block;
+  }
+  </style>
  
 <div id="container">
 <!-- Grid -->
